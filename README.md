@@ -2,23 +2,29 @@
 
 # Olá, eu sou Matheus Ferreira
 
-Profissional em transição para Cybersecurity, com foco em Security Operations (SOC), Blue Team, Threat Detection e Threat Hunting.
+Estudante de Engenharia de Software com ênfase em Engenharia de Cibersegurança, construindo minha trajetória na área de Cybersecurity, com foco em Blue Team, Security Operations (SOC), Threat Detection e Threat Hunting.
 
-Atualmente desenvolvo conhecimentos práticos por meio de laboratórios, projetos e plataformas como Cisco Networking Academy, Splunk, TryHackMe, DIO e EBAC.
+Tenho desenvolvido meus conhecimentos por meio de estudos, laboratórios práticos e projetos próprios, explorando desde fundamentos de redes e programação até análise de logs e ferramentas de segurança.
 
 ## Atualmente estudando
 
 * Security Operations (SOC)
-* Threat Detection
-* Threat Hunting
-* Incident Response
-* Análise de Logs
-* SIEM
-* Python para Automação de Segurança
-* Linux
-* Rust
+* Threat Detection e Threat Hunting
+* Incident Response e análise de logs
+* SIEM e investigação de eventos de segurança
+* Redes de computadores e protocolos TCP/IP
+* Python para automação e ferramentas de segurança
+* Linux e fundamentos de sistemas
+* Rust e desenvolvimento de software
 
-## Certificações e Formação
+## Formação e cursos
+
+### Formação acadêmica
+
+* **Instituto Infnet** — Engenharia de Software com ênfase em Engenharia de Cibersegurança
+* **EBAC** — Programa de Cybersecurity (em andamento)
+* **EBAC** — Programa de Inteligência Artificial (concluído)
+* **CTIG–UNESP** — Técnico em Informática Industrial (concluído)
 
 ### Cisco Networking Academy
 
@@ -36,59 +42,46 @@ Atualmente desenvolvo conhecimentos práticos por meio de laboratórios, projeto
 * SOC Essentials: Investigating with Splunk
 * SOC Essentials: Introduction to Threat Hunting
 
-### Outras Formações
+### Outras formações
 
-* Curso de Cybersecurity — EBAC
-* Santander Bootcamp 2026 - Rust AI Developer
-* TryHackMe Cyber Security 101
-* TryHackMe Pre Security
+* Santander Bootcamp 2026 — Rust AI Developer
+* TryHackMe — Cyber Security 101
+* TryHackMe — Pre Security
 
-## Tecnologias
+## Tecnologias e ferramentas
 
-### Segurança
+**Linguagens:** Python, Rust, C, C#, Java, SQL
 
-* Splunk
-* SIEM
-* Threat Hunting
-* Log Analysis
+**Web:** HTML, CSS
 
-### Linguagens
+**Segurança:** Splunk, SIEM, análise de logs, Threat Hunting
 
-* Python
-* Rust
-* C / C#
-* Java
-* SQL
+**Redes:** TCP/IP, DNS, HTTP/HTTPS, Nmap, Wireshark
 
-### Sistemas
+**Sistemas operacionais:** Linux, Windows, macOS
 
-* Linux
-* Windows
-* Mac
+**Ferramentas de desenvolvimento:** Git, GitHub, VS Code
 
-### Ferramentas
+## Projetos em destaque
 
-* Git
-* GitHub
+* **Python TCP Port Scanner** — ferramenta educacional para explorar conexões TCP, portas de rede, argumentos de linha de comando e exportação de resultados.
+* **Python Log Analyzer** — análise de logs de autenticação, contagem de tentativas de login, identificação de IPs suspeitos e classificação de eventos.
+* **Laboratórios de redes e segurança** — práticas voltadas a fundamentos de redes, segmentação, serviços expostos e controles de acesso.
 
-## Projetos em Destaque
+Confira meus repositórios para acompanhar os projetos e minha evolução prática.
 
-* Port Scanner em Python
-* Projetos de Automação para Cybersecurity
-* Labs e Write-ups de Segurança
+## Objetivos
 
-## Objetivos para 2026
-
-* Construir um portfólio sólido de projetos em Cybersecurity
-* Aprofundar conhecimentos em Splunk e Threat Hunting
-* Desenvolver laboratórios de investigação e análise de incidentes
-* Conquistar uma oportunidade como SOC Analyst ou Cybersecurity Analyst Jr.
-* Contribuir para projetos Open Source
+* Aprofundar meus conhecimentos em Blue Team e operações SOC.
+* Desenvolver projetos que conectem programação, redes e Cybersecurity.
+* Praticar investigação de eventos, análise de logs e Threat Hunting.
+* Conquistar uma oportunidade de estágio ou posição júnior em Cybersecurity.
+* Continuar evoluindo em Engenharia de Software e desenvolvimento seguro.
 
 ## Contato
 
-LinkedIn:
-[www.linkedin.com/in/matf-cybersec](http://www.linkedin.com/in/matf-cybersec)
+* **LinkedIn:** [linkedin.com/in/matf-cybersec](https://www.linkedin.com/in/matf-cybersec)
+* **GitHub:** [github.com/matf-cybersec](https://github.com/matf-cybersec)
 
 ---
 
@@ -96,23 +89,29 @@ LinkedIn:
 
 # Hi, I'm Matheus Ferreira
 
-Career transition professional focused on Cybersecurity, with an interest in Security Operations (SOC), Blue Team, Threat Detection and Threat Hunting.
+Software Engineering student specializing in Cybersecurity Engineering, building my career in cybersecurity with a focus on Blue Team, Security Operations (SOC), Threat Detection, and Threat Hunting.
 
-I am currently building hands-on experience through labs, projects and learning platforms such as Cisco Networking Academy, Splunk, TryHackMe, DIO and EBAC.
+I develop my skills through structured learning, hands-on labs, and personal projects, exploring topics ranging from networking and programming fundamentals to log analysis and security tools.
 
 ## Currently Learning
 
 * Security Operations (SOC)
-* Threat Detection
-* Threat Hunting
-* Incident Response
-* Log Analysis
-* SIEM
-* Python for Security Automation
-* Linux
-* Rust
+* Threat Detection and Threat Hunting
+* Incident Response and log analysis
+* SIEM and security event investigation
+* Computer networking and TCP/IP
+* Python for security automation and tooling
+* Linux and operating system fundamentals
+* Rust and software development
 
-## Certifications & Training
+## Education & Training
+
+### Academic Background
+
+* **Instituto Infnet** — Software Engineering with a specialization in Cybersecurity Engineering
+* **EBAC** — Cybersecurity Program (in progress)
+* **EBAC** — Artificial Intelligence Program (completed)
+* **CTIG–UNESP** — Industrial Computing Technical Program (completed)
 
 ### Cisco Networking Academy
 
@@ -132,63 +131,41 @@ I am currently building hands-on experience through labs, projects and learning 
 
 ### Additional Training
 
-* Cybersecurity Program — EBAC
-* Santander Bootcamp 2026 - Rust AI Developer
-* TryHackMe Cyber Security 101
+* Santander Bootcamp 2026 — Rust AI Developer
+* TryHackMe — Cyber Security 101
+* TryHackMe — Pre Security
 
-## Technologies
+## Technologies & Tools
 
-### Security
+**Languages:** Python, Rust, C, C#, Java, SQL
 
-* Splunk
-* SIEM
-* Threat Hunting
-* Log Analysis
+**Web:** HTML, CSS
 
-### Languages
+**Security:** Splunk, SIEM, log analysis, Threat Hunting
 
-* Python
-* Rust
-* C
-* Java
-* SQL
+**Networking:** TCP/IP, DNS, HTTP/HTTPS, Nmap, Wireshark
 
-### Operating Systems
+**Operating Systems:** Linux, Windows, macOS
 
-* Linux
-* Windows
-
-### Tools
-
-* Git
-* GitHub
+**Development Tools:** Git, GitHub, VS Code
 
 ## Featured Projects
 
-* Python Port Scanner
-* Cybersecurity Automation Projects
-* Security Labs & Write-ups
+* **Python TCP Port Scanner** — an educational tool for exploring TCP connections, network ports, command-line arguments, and result exports.
+* **Python Log Analyzer** — analyzes authentication logs, counts login attempts, identifies suspicious IP addresses, and classifies events.
+* **Networking & Security Labs** — hands-on exercises covering networking fundamentals, segmentation, exposed services, and access controls.
 
-## Goals for 2026
+Explore my repositories to follow my projects and practical learning journey.
 
-* Build a strong Cybersecurity project portfolio
-* Deepen Splunk and Threat Hunting skills
-* Develop incident investigation and analysis labs
-* Land a SOC Analyst or Junior Cybersecurity Analyst role
-* Contribute to Open Source projects
+## Goals
+
+* Deepen my knowledge of Blue Team and SOC operations.
+* Build projects connecting programming, networking, and cybersecurity.
+* Practice security event investigation, log analysis, and Threat Hunting.
+* Secure a cybersecurity internship or junior-level position.
+* Continue developing my software engineering and secure development skills.
 
 ## Contact
 
-LinkedIn:
-[www.linkedin.com/in/matf-cybersec](http://www.linkedin.com/in/matf-cybersec)
-
-- Git & GitHub
-
-🚀 Goals for 2026
-- Build security-related projects
-- Contribute to open source
-- Develop practical SOC skills
-- Land an internship/junior role in cybersecurity
-
-📫 Contact
-- LinkedIn: www.linkedin.com/in/matf-cybersec
+* **LinkedIn:** [linkedin.com/in/matf-cybersec](https://www.linkedin.com/in/matf-cybersec)
+* **GitHub:** [github.com/matf-cybersec](https://github.com/matf-cybersec)
